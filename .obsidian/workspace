@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "8ade0e47e251335a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e341f1335c29ee9d",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bmps/Marco estructural.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4611d2d9327c05d",
+    "type": "split",
+    "children": [
+      {
+        "id": "45ff50c35cc2f073",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f8cc07855b29629",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b0c65232485419ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3f2a721ecafc578",
+    "type": "split",
+    "children": [
+      {
+        "id": "552062c45ea88067",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6c8d1de2c9644b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bmps/Marco estructural.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Bmps/Marco estructural.md",
+    "Bmps/Iniciar aquí.md",
+    "Bmps/Tips.md",
+    "Bmps/Participantes.md",
+    "Bmps/Untitled.md",
+    "Bmps/1.- Tabla de contenidos.md",
+    "Bmps/Tabla de contenidos.md",
+    "process-owner.md",
+    "Bmps/Users.md"
+  ]
+}

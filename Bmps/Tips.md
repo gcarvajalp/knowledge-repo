@@ -1,0 +1,1 @@
+- Si modelamos procesos debemos hacerlo pensando en los clientes finales, es decir, pensar en el concepto de valor para el.
