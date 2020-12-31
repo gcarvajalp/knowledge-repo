@@ -27,4 +27,4 @@ metas del proyecto y por lo general prioriza las metas técnicas del proyecto, c
 ## Process Engineer (Ingeniero de Procesos Técnico)
 - Desarrolla e implementa un modelo técnico a partir de la especificación y el diseño operacional validado por  el/los [Process Analist](#process-analyst).
 - Un programador puede asumir el rol de ingeniero de procesos, si la solución es un desarrollo por medio de la programación.
-- El ingeniero también puede actuar como asesor en la fase de modelamiento de la lógica operacional.
+- El ingeniero también puede actuar como asesor en la fase de modelamiento de la lógica operacional. ^6ba537

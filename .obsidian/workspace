@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "e341f1335c29ee9d",
+        "id": "fe2510a1c4505bd6",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bmps/Marco estructural.md",
-            "mode": "source"
+            "file": "Bpmn/Tips.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bmps/Marco estructural.md",
+                "file": "Bpmn/Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,14 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Bpmn/Tips.md",
+    "Bpmn/Notación.md",
+    "Bpmn/Participantes.md",
+    "Bpmn/Iniciar aquí.md",
+    "Bpmn/Marco estructural.md",
+    "Bpmn/Untitled.md",
+    "Notación.md",
+    "Participantes^6ba537.md",
     "Bmps/Marco estructural.md",
-    "Bmps/Iniciar aquí.md",
-    "Bmps/Tips.md",
-    "Bmps/Participantes.md",
-    "Bmps/Untitled.md",
-    "Bmps/1.- Tabla de contenidos.md",
-    "Bmps/Tabla de contenidos.md",
-    "process-owner.md",
-    "Bmps/Users.md"
+    "Bmps/Iniciar aquí.md"
   ]
 }
